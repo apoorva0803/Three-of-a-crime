@@ -1,0 +1,174 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre7\lib\ext\dnsns.jar;C:\Program Files\Java\jre7\lib\ext\jaccess.jar;C:\Program Files\Java\jre7\lib\ext\localedata.jar;C:\Program Files\Java\jre7\lib\ext\sunec.jar;C:\Program Files\Java\jre7\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre7\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre7\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\apoorva\Downloads\Software\eclipse-jee-luna-R-win32-x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> Cp1252
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+23 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\Game$.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\Game.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameMain.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$1.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$10.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$3.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$4.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$5.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$6.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$7.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$8.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$9.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anonfun$1.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anonfun$2.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player1a$.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player1b$.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player2a$.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player2b$.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player3a$.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player3b$.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$.class
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI.class
+binary dependencies:
+7 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> C:\Users\apoorva\Downloads\Software\eclipse-jee-luna-R-win32-x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java -> C:\Program Files\Java\jdk1.7.0_80\jre\lib\rt.jar
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> C:\Users\apoorva\Downloads\Software\eclipse-jee-luna-R-win32-x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\src\jar\scala-library-2.9.1.jar
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\src\jar\scala-swing-2.9.1.jar
+direct source dependencies:
+4 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java -> E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java -> E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+23 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> Game
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> Game$
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java -> GameMain
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$1
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$10
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$3
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$4
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$5
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$6
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$7
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$8
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anon$9
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anonfun$1
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$$anonfun$2
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$player1a$
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$player1b$
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$player2a$
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$player2b$
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$player3a$
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> GameUI$$anon$2$player3b$
+used names:
+0 items
+product stamps:
+23 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\Game$.class -> lastModified(1449196929815)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\Game.class -> lastModified(1449196929628)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameMain.class -> lastModified(1449196930617)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$1.class -> lastModified(1449196929924)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$10.class -> lastModified(1449196929924)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$3.class -> lastModified(1449196929924)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$4.class -> lastModified(1449196929940)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$5.class -> lastModified(1449196929940)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$6.class -> lastModified(1449196929940)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$7.class -> lastModified(1449196929940)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$8.class -> lastModified(1449196929940)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anon$9.class -> lastModified(1449196929956)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anonfun$1.class -> lastModified(1449196929971)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$$anonfun$2.class -> lastModified(1449196930018)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player1a$.class -> lastModified(1449196930018)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player1b$.class -> lastModified(1449196930018)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player2a$.class -> lastModified(1449196930034)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player2b$.class -> lastModified(1449196930034)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player3a$.class -> lastModified(1449196930034)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2$player3b$.class -> lastModified(1449196930034)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$$anon$2.class -> lastModified(1449196929909)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI$.class -> lastModified(1449196929862)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\bin\GameUI.class -> lastModified(1449196929831)
+source stamps:
+3 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> hash(5fc8ff06ee5eb0404775e3d97ce7c3e0152be149)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java -> hash(cce388ce52662b3bbc352b94f3c3e8d19cf637a7)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> hash(ec0a191bae57e4caf14c6afb2bb8375a3226f54d)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.7.0_80\jre\lib\rt.jar -> lastModified(1441030879782)
+C:\Program Files\Java\jre7\lib\rt.jar -> lastModified(1441030895585)
+C:\Users\apoorva\Downloads\Software\eclipse-jee-luna-R-win32-x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1443036880259)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\jar\scala-library-2.9.1.jar -> lastModified(1445833414024)
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\jar\scala-swing-2.9.1.jar -> lastModified(1445833418711)
+class names:
+5 items
+C:\Program Files\Java\jdk1.7.0_80\jre\lib\rt.jar -> java.lang.Object
+C:\Program Files\Java\jre7\lib\rt.jar -> java.lang.Object
+C:\Users\apoorva\Downloads\Software\eclipse-jee-luna-R-win32-x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Int
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\jar\scala-library-2.9.1.jar -> scala.ScalaObject
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\jar\scala-swing-2.9.1.jar -> scala.swing.SimpleSwingApplication
+internal apis:
+3 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCLufIFAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAER2FtZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AU3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QAA0FueXNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFN0AAVzY2FsYXEAfgBadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVFq3gZDdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAJUU6XEZhbGwyMDE1XFNQTF9VTkNDXFNQTFxDcmltaW5hbFxiaW50ACVFOlxGYWxsMjAxNVxTUExfVU5DQ1xTUExcQ3JpbWluYWxcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABRfyP8G7l6wQEd149l858PgFSvhSQ==
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAyKK2OAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAIR2FtZU1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ADB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC8AcHNxAH4ANHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADhzcQB+AC8AcHNxAH4ANHVxAH4AEAAAAABzcQB+AC8AcHNxAH4ANHVxAH4AEAAAAABzcQB+AC8AcHNxAH4ANHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AN3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AN3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AVHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVXNxAH4AEnEAfgAgcQB+ACJxAH4AJHEAfgAlcQB+ACd+cQB+ACh0AAZNb2R1bGV1cQB+ACwAAAAAc3EAfgAvAHBzcQB+ADRxAH4AOXNxAH4ALwBwc3EAfgA0c3EAfgA8c3EAfgAvAHBzcQB+ADR1cQB+ABAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ABZxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAEbWFpbnEAfgAnc3EAfgBIdAAEVW5pdHNxAH4ATHNxAH4AT3VxAH4AUgAAAAJzcQB+AFR0AAVzY2FsYXEAfgBbdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AaXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAAc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA3c3EAfgBIdAAFQXJyYXlzcQB+AExzcQB+AE91cQB+AFIAAAACc3EAfgBUdAAFc2NhbGFxAH4AW3VxAH4ARgAAAAFzcQB+AEh0AAZTdHJpbmdzcQB+AExzcQB+AE91cQB+AFIAAAADc3EAfgBUdAAEamF2YXNxAH4AVHQABGxhbmdxAH4AW3NxAH4ALwBwc3EAfgA0dXEAfgAQAAAAAHNxAH4ALwBwc3EAfgA0dXEAfgBGAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRat4GQ3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ACVFOlxGYWxsMjAxNVxTUExfVU5DQ1xTUExcQ3JpbWluYWxcYmludAAlRTpcRmFsbDIwMTVcU1BMX1VOQ0NcU1BMXENyaW1pbmFsXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzOOIzlJmKzu8NSuU88Po0Zz2N6c=
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBw3QZfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAGR2FtZVVJdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgBEeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBMWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBLdAAFQXJyYXlxAH4AUXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBLdAAGU3RyaW5nc3EAfgBPc3EAfgBSdXEAfgBVAAAAA3NxAH4AV3QABGphdmFzcQB+AFd0AARsYW5ncQB+AFxzcQB+AC4AcHNxAH4AM3VxAH4AcAAAAAZzcQB+AEt0ABZTaW1wbGVTd2luZ0FwcGxpY2F0aW9uc3EAfgBPc3EAfgBSdXEAfgBVAAAAA3NxAH4AV3EAfgBac3EAfgBXdAAFc3dpbmdxAH4AXHNxAH4AS3QAEFN3aW5nQXBwbGljYXRpb25xAH4AgHNxAH4AS3QAB1JlYWN0b3JxAH4AgHNxAH4AS3QAC1NjYWxhT2JqZWN0cQB+AFFzcQB+AEt0AAZPYmplY3RxAH4AdHNxAH4AS3QAA0FueXEAfgBRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVFq3gZDdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAJUU6XEZhbGwyMDE1XFNQTF9VTkNDXFNQTFxDcmltaW5hbFxiaW50ACVFOlxGYWxsMjAxNVxTUExfVU5DQ1xTUExcQ3JpbWluYWxcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABTsChkbrlfkyvFMavsruDdaMib1TQ==
+external apis:
+0 items
+source infos:
+3 items
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\Game.scala -> 
+AAAAAAAAAAA=
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameMain.java -> 
+AAAAAAAAAAA=
+E:\Fall2015\SPL_UNCC\SPL\Criminal\src\GameUI.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUWreBkN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAJUU6XEZhbGwyMDE1XFNQTF9VTkNDXFNQTFxDcmltaW5hbFxiaW50ACVFOlxGYWxsMjAxNVxTUExfVU5DQ1xTUExcQ3JpbWluYWxcc3Jj
